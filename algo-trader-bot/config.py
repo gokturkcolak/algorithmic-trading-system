@@ -12,7 +12,7 @@ TESTNET = True
 
 # Trading Settings
 SYMBOL = 'ETH/USDT'
-TIMEFRAME = '1h'
+TIMEFRAME = '4h'
 LIMIT = 1000
 
 # Model Settings
